@@ -1,11 +1,11 @@
-### Hi there, I'm Mert! 👋
+### Hi there, I'm Mert!
 
 I'm a **Computer Engineering** student at **Konya Food & Agriculture University**, passionate about software development and creating efficient solutions.
 
-- 🎓 Currently a 2nd-year student (taking upper-level coursework).
-- 💻 Coding in **Java** & **Python**.
-- 🛠 Using **IntelliJ IDEA**, **PyCharm**, and **VS Code**.
-- 🔭 Working on improving my skills in Data Structures & Algorithms.
+-  Currently a 2nd-year student.
+-  Coding in **Java** & **Python**.
+-  Using **IntelliJ IDEA**, **PyCharm**, and **VS Code**.
+-  Working on improving my skills in Data Structures & Algorithms.
 
 ---
 
@@ -19,5 +19,5 @@ I'm a **Computer Engineering** student at **Konya Food & Agriculture University*
 ---
 
 ### 📫 Connect with Me
-- 💼 LinkedIn: linkedin.com/in/mert-kaymak-1090462a7
-- 📫 Email: mertçkaymak38@gmail.com
+-  LinkedIn: linkedin.com/in/mert-kaymak-1090462a7
+-  Email: mert.kaymak38@gmail.com
