@@ -5,7 +5,6 @@ I'm a **Computer Engineering** student at **Konya Food & Agriculture University*
 - 🎓 Currently a 2nd-year student (taking upper-level coursework).
 - 💻 Coding in **Java** & **Python**.
 - 🛠 Using **IntelliJ IDEA**, **PyCharm**, and **VS Code**.
-- 🌍 **AFAD Volunteer** - Ready to help in emergencies.
 - 🔭 Working on improving my skills in Data Structures & Algorithms.
 
 ---
@@ -20,8 +19,5 @@ I'm a **Computer Engineering** student at **Konya Food & Agriculture University*
 ---
 
 ### 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/SENIN-LINKIN/)
-- 📫 Email: senin.mailin@example.com
-
-işaretlerini kaldırıp kendi kullanıcı adını yazarsan istatistiklerin görünür!)
--->
+- 💼 LinkedIn: linkedin.com/in/mert-kaymak-1090462a7
+- 📫 Email: mertçkaymak38@gmail.com
