@@ -19,5 +19,5 @@ I'm a **Computer Engineering** student at **Konya Food & Agriculture University*
 ---
 
 ### 📫 Connect with Me
--  LinkedIn: linkedin.com/in/mert-kaymak-1090462a7
--  Email: mert.kaymak38@gmail.com
+-  LinkedIn: https://www.linkedin.com/in/mert-kaymak/
+-  Email: mertkaymak.cs@gmail.com
